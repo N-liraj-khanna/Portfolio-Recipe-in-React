@@ -3,7 +3,7 @@ import home1 from "../img/home1.png";
 
 const AboutSection = () => {
   return (
-    <div className="about-section">
+    <div className="about">
       <div className="description">
         <div className="title">
           <div className="hide">
