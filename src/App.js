@@ -1,11 +1,11 @@
 import React from "react";
 //Global Style
-import GlobalStyle from "./components/GlobalStyle";
+import GlobalStyle from "./Components/GlobalStyle";
 //Import Pages
 import AboutUs from "./pages/AboutUs";
 import ContactUs from "./pages/ContactUs";
 import OurWork from "./pages/OurWork";
-import Nav from "./components/Nav";
+import Nav from "./Components/Nav";
 import MovieDetail from "./pages/MovieDetail";
 //Router
 import { Switch, Route, useLocation } from "react-router-dom";

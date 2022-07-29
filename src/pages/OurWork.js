@@ -15,8 +15,8 @@ import {
   photoAnim,
   lineAnim,
 } from "../animation";
-import { useScroll } from "../components/useScroll";
-import ScrollTop from "../components/ScrollTop";
+import { useScroll } from "../Components/useScroll";
+import ScrollTop from "../Components/ScrollTop";
 
 const OurWork = () => {
   const [element, controls] = useScroll();
