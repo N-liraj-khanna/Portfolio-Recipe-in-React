@@ -1,6 +1,7 @@
 {
   "hosting": {
     "public": "build",
+    "site": "liraj",
     "ignore": [
       "firebase.json",
       "**/.*",
